@@ -6,4 +6,5 @@ MacBook update
 3. install Debian 11
 4. find out what doesn't work => WiFi, iSight, right mouse button
 5. add user to sudoers => edit /etc/sudoers as root
-6. 
+6. https://wiki.debian.org/MacBook/Wireless => https://wiki.debian.org/bcm43xx
+7. 
